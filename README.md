@@ -1,3 +1,6 @@
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 # About-Me
 
 ## Who Am I?
@@ -30,10 +33,10 @@ Version Control: One and only GitHub ❤️
 ## My Tertiary Education
 
 | Academic Qualification | Institution          
-| ------------- |:-------------:|
-| Data Scince(in progress)     | The University of Melbourne | 
-| MBA     | IBA,The University of Dhaka     |  
-| B.Sc. in Electrical & Electronic Engineering| Islamic University of Technology | 
+| ------------- |-------------|
+| Data Scince(in progress)| The University of Melbourne | 
+| MBA (Major:Finance)   | IBA, The University of Dhaka |  
+| B.Sc. in Electrical & Electronic Engineering| Islamic University of Technology (IUT), Dhaka | 
 
 
 
