@@ -1,9 +1,9 @@
 # About-Me
 
-Who Am I?
+## Who Am I?
 My name is Kazi Toufiq Wadud. 
 
-What do I do?
+## What do I do?
 Literally everything with data!! 😊
 
 
