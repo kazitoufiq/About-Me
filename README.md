@@ -34,7 +34,7 @@ Version Control: One and only GitHub ❤️
 
 | Academic Qualification | Institution          
 | ------------- |-------------|
-| Data Scince(in progress)| The University of Melbourne | 
+| Data Science(in progress)| The University of Melbourne | 
 | MBA (Major:Finance)   | IBA, The University of Dhaka |  
 | B.Sc. in Electrical & Electronic Engineering| Islamic University of Technology (IUT), Dhaka | 
 
