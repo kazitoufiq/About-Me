@@ -4,10 +4,10 @@
 # About-Me
 
 ## Who Am I?
-My name is Kazi Toufiq Wadud. I'm a Bangladeshi Australian living in Melbourne.  
+My name is Kazi Toufiq Wadud. I live in Melbourne. I'm a data science enthusiast. Since 2012, I've embarked on my journey in data analytics, data science & data engineering domain and still continuing that data journey every day in, day out.   
 
 ## What do I do?
-Literally everything with data!! 😊
+Literally everything with data!! 😊 
 
 
 ## Coding Skills
