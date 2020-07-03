@@ -20,11 +20,19 @@ Libraries:
 
 
 ## Tools/Platforms
-Tableau (Certified), 
-Power BI(currenly preparing for certification), 
-HiveQL, Impala, Apache Spark (pyspark) 
-AWS : EC2, S3, Redshift
-Azure: Azure Databricks (learning phase)
+BI Tools:
+
+-Tableau (Certified)
+-Power BI(currenly preparing for certification)
+
+Bigdata Framework:
+
+  - HiveQL, Impala, Apache Spark (pyspark) 
+ 
+Cloud:
+
+  -AWS : EC2, S3, Redshift
+  -Azure: Azure Databricks (learning phase)
 
 
 ## ETL Tool
@@ -32,7 +40,7 @@ Alteryx, Lavastorm, SSIS
 
 ## Data Science & Analysis Skills
 Exploratory Data Analysis 
-Unsupervised Machine Learning (K-means, DBSCAN)
+Unsupervised Machine Learning (K-means, k-medoids, DBSCAN)
 Timeseries clusteirng (distance method - eucledian, corss-corelation, dynamic time-warping) 
 Supervised Machine Learning (Decision Tree, Random Forest, XGBOOST, GBM, Naive Bayes, Logistic Regression)
 Timeseries forecasting (Facebook's prophet)
