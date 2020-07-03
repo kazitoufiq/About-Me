@@ -23,6 +23,7 @@ Libraries:
 BI Tools:
 
 -Tableau (Certified)
+
 -Power BI(currenly preparing for certification)
 
 Bigdata Framework:
@@ -32,6 +33,7 @@ Bigdata Framework:
 Cloud:
 
   -AWS : EC2, S3, Redshift
+
   -Azure: Azure Databricks (learning phase)
 
 
