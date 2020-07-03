@@ -12,23 +12,42 @@ Literally everything with data!! 😊
 
 ## Coding Skills
 Languages: R, Python, Java, SQL, HTML, CSS, JavaScript
-Libraries: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Bootstrap Framework, Material Design Concept, OOPs Concept
+
+Libraries: 
+  - R : dplyr, data.table, tidyr, ggplot2, plotly, purrr, caret, sp, igraph, tsclust, prophet etc.
+  - Python : NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib etc.
+  
 
 
 ## Tools/Platforms
-Tableau, Power BI, Hive, Apache Spark, Impala
+Tableau (Certified), 
+Power BI(currenly preparing for certification), 
+HiveQL, Impala, Apache Spark (pyspark) 
+AWS : EC2, S3, Redshift
+Azure: Azure Databricks (learning phase)
+
 
 ## ETL Tool
+Alteryx, Lavastorm, SSIS
 
-  Alteryx, Lavastorm, SSIS
+## Data Science & Analysis Skills
+Exploratory Data Analysis 
+Unsupervised Machine Learning (K-means, DBSCAN)
+Timeseries clusteirng (distance method - eucledian, corss-corelation, dynamic time-warping) 
+Supervised Machine Learning (Decision Tree, Random Forest, XGBOOST, GBM, Naive Bayes, Logistic Regression)
+Timeseries forecasting (Facebook's prophet)
+Ensemble Methods
+Hypothesis Testing
+Model Development & Evaluation Metrics
+Data Wrangling 
+Data Visualization 
+Quantitative Methods
 
-Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics
+## Development Environment
+Windows OS, Mac OS, Jupyter Notebook, R Studio (for R), Pycharm (for Python) , IntelliJ Idea (for Java)
 
-Development Environment: Windows OS, Mac OS, Jupyter Notebook, R Studio (for R), Pycharm (for Python) , IntelliJ Idea (for Java)
 
 Version Control: One and only GitHub ❤️
-
-
 
 ## My Tertiary Education
 
