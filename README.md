@@ -20,44 +20,44 @@ Libraries:
 
 
 ## Tools/Platforms
-BI Tools:
+### BI Tools:
 
--Tableau (Certified)
+* Tableau (Certified)
 
--Power BI(currenly preparing for certification)
+* Power BI(currenly preparing for certification)
 
-Bigdata Framework:
+### Bigdata Framework:
 
   - HiveQL, Impala, Apache Spark (pyspark) 
  
-Cloud:
+### Cloud:
 
-  -AWS : EC2, S3, Redshift
+  * AWS : EC2, S3, Redshift
 
-  -Azure: Azure Databricks (learning phase)
+  * Azure: Azure Databricks (learning phase)
 
 
 ## ETL Tool
 Alteryx, Lavastorm, SSIS
 
 ## Data Science & Analysis Skills
-Exploratory Data Analysis 
-Unsupervised Machine Learning (K-means, k-medoids, DBSCAN)
-Timeseries clusteirng (distance method - eucledian, corss-corelation, dynamic time-warping) 
-Supervised Machine Learning (Decision Tree, Random Forest, XGBOOST, GBM, Naive Bayes, Logistic Regression)
-Timeseries forecasting (Facebook's prophet)
-Ensemble Methods
-Hypothesis Testing
-Model Development & Evaluation Metrics
-Data Wrangling 
-Data Visualization 
-Quantitative Methods
+* Exploratory Data Analysis 
+* Unsupervised Machine Learning (K-means, k-medoids, DBSCAN)
+* Timeseries clusteirng (distance method - eucledian, corss-corelation, dynamic time-warping) 
+* Supervised Machine Learning (Decision Tree, Random Forest, XGBOOST, GBM, Naive Bayes, Logistic Regression)
+* Timeseries forecasting (Facebook's prophet)
+* Ensemble Methods
+* Hypothesis Testing
+* Model Development & Evaluation Metrics
+* Data Wrangling 
+* Data Visualization 
+* Quantitative Methods
 
 ## Development Environment
 Windows OS, Mac OS, Jupyter Notebook, R Studio (for R), Pycharm (for Python) , IntelliJ Idea (for Java)
 
-
-Version Control: One and only GitHub ❤️
+## Version Control: 
+One and only GitHub ❤️
 
 ## My Tertiary Education
 
